@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I’m @SaurabhDwivedii
 
 ## 🚀 About Me
-Senior AI & Data Engineer with 16+ years of experience building enterprise-scale solutions across Generative AI, Data Engineering, Cloud, and Automation domains.
+AI & Data Engineering professional with 16+ years of experience building scalable enterprise platforms across Generative AI, Data Engineering, Cloud, and Automation domains. Specialized in developing production-grade AI systems using RAG Architectures, Agentic AI, Cloud, FastAPI, Python, and distributed data technologies. Strong expertise in enterprise AI integration, scalable data pipelines, semantic search, and cloud-native architecture. Experienced in designing and deploying AI-powered enterprise applications, healthcare automation systems, and real-time data engineering solutions aligned with business and operational goals.
 
 I specialize in:
 - GenAI & RAG Architectures
@@ -42,7 +42,7 @@ Currently focused on building scalable AI systems for enterprise knowledge retri
 - Multi-Agent AI Systems
 - Advanced RAG Optimization
 - AI Memory Architectures
-- AI Evaluation Frameworks (G-Eval)
+- AI Evaluation Frameworks (G-Eval,RAGAS and DeepEval)
 - Production-grade LLM Orchestration
 - Scalable AI Infrastructure on Azure
 
