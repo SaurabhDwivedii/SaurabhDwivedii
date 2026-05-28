@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# 👋 Hi, I’m @SaurabhDwivedii
+# 👋 Hi, I’m Saurabh Dwivedi
 
 ## 🚀 About Me
 AI & Data Engineering professional with 16+ years of experience building scalable enterprise platforms across Generative AI, Data Engineering, Cloud, and Automation domains. Specialized in developing production-grade AI systems using RAG Architectures, Agentic AI, Cloud, FastAPI, Python, and distributed data technologies. Strong expertise in enterprise AI integration, scalable data pipelines, semantic search, and cloud-native architecture. Experienced in designing and deploying AI-powered enterprise applications, healthcare automation systems, and real-time data engineering solutions aligned with business and operational goals.
