@@ -84,3 +84,5 @@ Azure| GCP | Git | CI/CD | Power BI | RPA
 
 ## ⚡ Fun Fact
 I enjoy building AI systems where scalable engineering meets practical business impact.
+<img width="1536" height="1024" alt="AI&Data Engineering " src="https://github.com/user-attachments/assets/164d614d-76d5-474b-b63b-a5f612e5014b" />
+
